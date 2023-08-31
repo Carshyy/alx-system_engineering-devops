@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | awk '{print $3, $4, $0}' | sort -n
+ls -la | awk '{print $3, $4, $0}' | sort -n
