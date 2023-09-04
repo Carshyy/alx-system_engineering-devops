@@ -1,0 +1,2 @@
+#!/bin/bash
+tail -n "$line_count" "$iacta" >> "$iacta"
